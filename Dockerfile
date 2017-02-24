@@ -1,5 +1,6 @@
 FROM ubuntu:14.04.4
-MAINTAINER cannin
+###original: cannin/r-base
+MAINTAINER marcosarmas
 
 ##### UBUNTU
 # Update Ubuntu and add extra repositories
